@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Terms Of Service](README.md)
-* [Privacy Policy](privacy-policy.md)
+* [Değişim Kaydı](README.md)
+
+## 📙 Legal
+
+* [Hizmet Şartları](legal/hizmet-sartlari.md)
+* [Gizlilik Politikası](legal/gizlilik-politikasi.md)
